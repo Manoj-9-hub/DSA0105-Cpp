@@ -1,1 +1,0 @@
-No interactive input required (compares procedural vs OOP SmartCard execution).

@@ -1,1 +1,0 @@
-No interactive input required (executes the Predict-the-Output snippet and safe equivalent).

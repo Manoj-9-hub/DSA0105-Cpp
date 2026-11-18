@@ -1,1 +1,0 @@
-No interactive input required (compile-time static_assert and tariff table output).
